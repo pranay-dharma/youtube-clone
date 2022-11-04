@@ -1,0 +1,33 @@
+.video-type{
+
+    width:100%;
+    height:auto;
+    margin:auto;
+    cursor: pointer;
+   
+    
+    
+}
+img{
+    width:100%;
+    height: 300px;
+    margin:10px;
+
+}
+ p{
+    color:black;
+    
+align-items: center;
+   
+   
+}
+@media screen and (max-width:900px){
+    .video-title{
+        color:white;
+    }
+}
+@media screen and (max-width:400px){
+    .video-title{
+        color:white;
+    }
+}

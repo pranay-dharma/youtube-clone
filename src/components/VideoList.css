@@ -1,0 +1,10 @@
+.video-list{
+    color:white;
+}
+
+
+@media screen and (max-width:900px){
+    .video-list{
+        color:white;
+    }
+}
